@@ -1,5 +1,6 @@
 # HeroPowerControl
 Hero robot power control
+//大连交通大学-TOE工作室-英雄底盘功率控制-开源代码
 一、基本架构
 我的程序是跑在ucosiii下的，主要有以下几个任务组成：
 1、电机数据反馈接收任务
